@@ -6,6 +6,8 @@
 + UnitySetup-Android-Support-for-Editor-5.6.2f1.exe
 
 ### 二、安装JAVA
+![](https://github.com/NFUNM024/tupian/blob/master/12.png "")
++ 最好使用默认路径 更改路径需要记得方便后面安装
 ### 三、配置JAVA的环境变量
 1.右键我的电脑点击属性
 
@@ -27,7 +29,26 @@
 6.输入Java -version验证安装
 ### 四、安装安卓开发平台
 1.安装sdk开发包——android-sdk_r24.4.1-windows
+
 2.打开SDK Manager.exe，点击install进行更新
+![](https://github.com/NFUNM024/tupian/blob/master/7.png "")
 ### 五、配置Unity环境
 1.新建项目进入Unity
+
 2.按顺序打开Edit-->Preferences --> External Tools点击Browse选择JDK和SDK的路径
+
+![](https://github.com/NFUNM024/tupian/blob/master/8.png "")
+
+3.配置好后点击File-->build setting-->add open scenes(选择场景)-->Platfrom选择andorid
+
+![](https://github.com/NFUNM024/tupian/blob/master/9.png "")
+
+4.点击player sitting将package name和company name更改为com.humei.sj
+
+![](https://github.com/NFUNM024/tupian/blob/master/10.png "")
+
+5.点击build创建APK文件
+
+![](https://github.com/NFUNM024/tupian/blob/master/11.png "")
+
+### 六、成品使用录屏
