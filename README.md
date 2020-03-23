@@ -52,3 +52,4 @@
 ![](https://github.com/NFUNM024/tupian/blob/master/11.png "")
 
 ### 六、成品使用录屏
+[APK使用录屏](https://github.com/NFUNM024/tupian/blob/master/%E8%A7%86%E9%A2%91%E5%BD%95%E5%88%B6%201.mp4)
