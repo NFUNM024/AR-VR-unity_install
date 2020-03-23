@@ -9,6 +9,7 @@
 ### 三、配置JAVA的环境变量
 1.右键我的电脑点击属性
 2.点击左侧最下面的高级系统设置
+![](https://github.com/NFUNM024/tupian/blob/master/2.png "")
 3.点击右下角的环境变量
 4.新建用户变量 变量名为"JAVA_HOME"，变量值为JAVA的安装路径
 5.点击变量名Path，添加变量值%JAVA_HOME%\bin
